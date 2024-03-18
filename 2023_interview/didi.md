@@ -1,5 +1,5 @@
 # 一面
-
+业务方向： 车定价和优化券发放如何定
 * 问了有没有用用户的一些历史的特征，然后特征是怎么用的
 答：之前使用的max_pooling的方式, 还有sum_pooling的一些方式，现在同时的话还会有attention pooling的方式，像attention pooling的话，可以使用全user的特征然后映射到相应的特征共建做attention，也可以只使用相关的id特征做attention。
 
